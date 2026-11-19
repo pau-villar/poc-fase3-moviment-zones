@@ -125,6 +125,11 @@
                          "value":"Sala de Reunions"
                         }, 
                         {
+                         "name":"streamUrl",
+                         "type":"string",
+                         "value":"https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+                        }, 
+                        {
                          "name":"tipus",
                          "type":"string",
                          "value":"zona"
@@ -148,9 +153,19 @@
                          "value":"Zona Caf\u00e8"
                         }, 
                         {
+                         "name":"streamUrl",
+                         "type":"string",
+                         "value":"https://media.w3.org/2010/05/sintel/trailer.mp4"
+                        }, 
+                        {
                          "name":"tipus",
                          "type":"string",
                          "value":"zona"
+                        }, 
+                        {
+                         "name":"titolMonitor",
+                         "type":"string",
+                         "value":"C\u00e0mera Descans \u00b7 Canal 02"
                         }],
                  "rotation":0,
                  "type":"",
